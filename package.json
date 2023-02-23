@@ -13,6 +13,7 @@
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "axios": "^1.3.3",
+    "cross-env": "^7.0.3",
     "framer-motion": "^4.1.17",
     "millify": "^4.0.0",
     "next": "11.1.2",
